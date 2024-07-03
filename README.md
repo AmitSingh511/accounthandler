@@ -1,2 +1,2 @@
-# trying...
+# some fun with c++
 
